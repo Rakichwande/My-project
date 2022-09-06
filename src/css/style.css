@@ -61,4 +61,18 @@ p {
     font-style: italic;
     font-size: 24px;
     font-weight: 100;
+    margin-bottom: 20px
+}
+.btn{
+    color: black;
+    background-color: lightgreen;
+    border: none;
+    width: 200px;
+    height: 70px;
+    border-radius: 45px;
+    font-weight: 800;
+    font-size: 30px;
+    padding: 0px 5px;
+    text-decoration: none;
+    pad: 8px 12px;
 }
